@@ -1,0 +1,95 @@
+
+.head{
+    background: url("../photos/slider.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+    margin-top: 18px;
+}
+
+.navcust{
+    background-color: transparent; 
+    border: none; 
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+    font-size: 20px;
+}
+
+.wrapper{
+    width:  80%;
+    align-items: center;
+    margin: 0 auto;
+}
+.text1{
+    color: white;
+    width: 30%;
+    margin-top:150px;
+
+}
+.rowcap{
+    margin: 0 auto;
+}
+.textcap{
+    margin-top: 200px;
+}
+.row{margin: 50px auto;
+}
+
+.foot{
+    min-height: 325px;
+    background: url("../photos/foot.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.text2{
+    width: 70%;
+    margin-top:10px;
+}
+.storeButtons{
+    margin-top: 20px;
+}
+
+.footer{
+    min-height: 100px;
+    background-color: #353854;
+}
+.bottomRow{
+    margin-top: 100px;
+}
+.whiteBorder{
+    margin-top: 100px;
+    border-bottom: .5px solid grey;
+}
+.last>h5{
+    color: #494D72;
+}
+.lastButton .btn{
+    width: 50px;
+    background-color: #434769;
+}
+.lastButton .btn:hover{
+    opacity: .5;
+}
+}
+.downloadSection{
+    margin-top: 100px;
+    background-image: url(../images/download_background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 250px;
+}
+.downloadSection h1{
+    color: white;
+    margin-top: 80px;
+    font-weight: 100;
+}
+.downloadSection h6{
+    color: white;
+    line-height: 15px;
+    font-family: monospace;
+}
+.downloadSection .row{
+    margin-right: 0px;
